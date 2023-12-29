@@ -102,6 +102,7 @@ a {
 .yoga-template .banner .logo {
 	text-align: center;
 	z-index: 3;
+	height: 24px;
 }
 .yoga-template .banner .top-bar-right {
 	text-align: right;

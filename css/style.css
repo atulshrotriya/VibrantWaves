@@ -209,9 +209,9 @@ a {
 .yoga-template .service-section .service-detail-img {
 	position: center;
 	z-index: 3;
-	height: auto;
-	width: auto;
-	max-width: 40px;
+	height: 100%;
+	width: 100%;
+	max-width: 200px;
 }
 /*Class Yoga Club*/
 .yoga-template .best-class-club .detail-col-club{

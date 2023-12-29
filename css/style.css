@@ -207,8 +207,11 @@ a {
 	letter-spacing: 0.40px;
 }
 .yoga-template .service-section .service-detail-img {
-	max-width: 40px;
- 	height: auto;
+	position: center;
+	z-index: 3;
+	height: auto;
+	width: auto;
+	max-width: 25%;
 }
 /*Class Yoga Club*/
 .yoga-template .best-class-club .detail-col-club{
